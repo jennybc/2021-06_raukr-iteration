@@ -87,6 +87,17 @@ sw %>%
   mutate(ships = paste(starships, collapse = "/"))
 
 sw %>%
+  rowwise() %>%
+  summarize(ships = paste(starships, collapse = "/"))
+
+sw %>%
+  rowwise(name) %>%
+  summarize(ships = paste(starships, collapse = "/"))
+
+sw %>%
+  mutate(ships = map_chr(starships, ~ paste(.x, collapse = "/")))
+
+sw %>%
   rowwise()
 
 sw %>%
