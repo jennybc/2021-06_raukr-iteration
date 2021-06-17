@@ -4,6 +4,8 @@ Agenda for Jenny Bryan's instruction at:
 
   * [RaukR: Advanced R for Bioinformatics Summer School](https://nbisweden.github.io/workshop-RaukR-2106/)
   * 2021 June 14 - 24, ~Visby, Sweden~ Online
+  
+I also taught [in 2019](https://github.com/jennybc/2019-06_raukr-github-iteration#readme), about iteration and using Git/GitHub with R.
 
 ## Iterating well with R (and the tidyverse)
 
