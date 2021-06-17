@@ -30,7 +30,7 @@ RStudio webinar (also before `dplyr::rowwise()`'s resurrection):
   
 Charlotte Wickham's purrr materials:
 
-* <https://github.com/cwickham/purrr-tutorial
+* <https://github.com/cwickham/purrr-tutorial>
 
 "Functionals" chapter of 2nd of Advanced R by Wickham
 
