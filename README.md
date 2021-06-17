@@ -13,7 +13,9 @@ This will only be a 1-hour session, so I have very specific priorities for our "
 
 * Iterate the R way
 * Row-wise work in a data frame (with dplyr and friends)
-* General iteration (with the purrr package)
+* General iteration (with the purrr package
+  
+Slides: [pdf](iteration-in-r-with-tidyverse.pdf)
 
 Resources for future self-study:
 
